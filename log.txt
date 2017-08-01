@@ -1,0 +1,89 @@
+scraper      team           keyword          time                        number          
+bingScraper  Bradford Lane  medical service  2017-07-24 17:49:21.547360  page: 10
+bingScraper  Bradford Lane  medical service  2017-07-24 17:49:31.970858  page: 10
+bingScraper  Crescent Peak  medical service  2017-07-24 17:50:03.650776  page: 1
+googleScraper  Arden Bay  medical service  2017-07-24 17:54:29.293590  number of urls: 10
+googleScraper  Crescent Peak  medical service  2017-07-24 17:56:34.730954  number of urls: 10
+bingScraper  Arden Bay  medical service  2017-07-24 18:54:42.151320  page: 1
+bingScraper  Arden Bay  medical service  2017-07-24 18:55:49.132962  page: 10
+bingScraper  Bradford Lane  medical service  2017-07-24 18:57:04.885218  page: 10
+bingScraper  Arden Bay  medical service  2017-07-24 18:58:47.849830  page: 10
+bingScraper  Bradford Lane  medical service  2017-07-24 19:00:05.271128  page: 10
+bingScraper  Arden Bay  medical service  2017-07-24 19:00:05.736197  page: 10
+bingScraper  Servan & Co  drill pipe threading company  2017-07-25 13:30:03.262775  page: 10
+bingScraper  Servan & Co  drill pipe threading company, drill pipe threading services  2017-07-25 13:49:13.897473  page: 10
+bingScraper  Oakbourne  geospatial lidar services  2017-07-25 14:19:46.585019  page: 10
+bingScraper  Oakbourne  geospatial lidar services  2017-07-25 14:26:58.106646  page: 10
+bingScraper  Oakbourne  geospatial lidar services, geospatial photogrammetry services  2017-07-25 15:11:50.102544  page: 10
+bingScraper  Klaxon  off-site electrostatic air filitration service, electrostatic air filitration service, electrostatic collector services  2017-07-25 15:18:48.961825  page: 10
+bingScraper  Klaxon  window cleaning service, window washing service, commercial window cleaning, high rise window cleaning  2017-07-25 15:23:10.875222  page: 10
+bingScraper  Oakbourne  geospatial lidar services, geospatial photogrammetry services  2017-07-25 15:24:31.284015  page: 10
+bingScraper  Estes Point  trash valet, doorstep trash  2017-07-25 15:27:52.837597  page: 10
+bingScraper  Monan  drill pipe threading company, drill pipe services, tubular threading company, tubular services API, drill pipe thread API  2017-07-25 15:29:47.780438  page: 10
+bingScraper  Monan  drill pipe threading company, drill pipe services, tubular threading company, tubular services API, drill pipe thread API  2017-07-25 15:32:24.760183  page: 10
+bingScraper  Klaxon  window cleaning service, window washing service, commercial window cleaning, high rise window cleaning  2017-07-25 15:35:28.616787  page: 10
+bingScraper  Oakbourne  remote sensing llc  2017-07-25 15:36:38.878573  page: 10
+bingScraper  Estes Point  trash valet, doorstep trash  2017-07-25 15:36:46.047835  page: 10
+bingScraper  Klaxon  window cleaning service, window washing service, commercial window cleaning, high rise window cleaning  2017-07-25 15:37:56.152977  page: 10
+bingScraper  Monan  drill pipe threading company, drill pipe services, tubular threading company, tubular services API, drill pipe thread API  2017-07-25 15:37:56.153564  page: 10
+bingScraper  Klaxon  window cleaning service, window washing service, commercial window cleaning, high rise window cleaning  2017-07-25 15:40:03.051544  page: 10
+bingScraper  Klaxon  window cleaning service, window washing service, commercial window cleaning, high rise window cleaning  2017-07-25 15:47:54.087738  page: 10
+bingScraper  Monan  drill pipe threading company, drill pipe services, tubular threading company, tubular services API, drill pipe thread API  2017-07-25 16:02:22.651275  page: 10
+bingScraper  Monan  drill pipe threading company, drill pipe services, tubular threading company, tubular services API, drill pipe thread API  2017-07-25 16:11:57.569867  page: 10
+bingScraper  Klaxon  window cleaning service, window washing service, commercial window cleaning, high rise window cleaning  2017-07-25 16:12:48.378174  page: 10
+bingScraper  Monan  drill pipe threading company, drill pipe services, tubular threading company, tubular services API, drill pipe thread API  2017-07-25 16:15:13.268495  page: 10
+bingScraper  Klaxon  window cleaning service, window washing service, commercial window cleaning, high rise window cleaning  2017-07-25 16:15:30.325531  page: 10
+bingScraper  Monan  drill pipe threading company, drill pipe services, tubular threading company, tubular services API, drill pipe thread API  2017-07-25 16:20:50.817347  page: 5
+bingScraper  Klaxon  window cleaning service, window washing service, commercial window cleaning, high rise window cleaning  2017-07-25 16:21:58.269242  page: 10
+bingScraper  Monan  fire inspection commercial kitchen, fire suppression system inspection  2017-07-25 16:27:31.978633  page: 10
+bingScraper  Monan  fire, inspection, commercial, kitchen, suppression, system  2017-07-25 16:32:35.018065  page: 10
+bingScraper  Klaxon  window cleaning service, window washing service, commercial window cleaning, high rise window cleaning  2017-07-25 16:49:20.768167  page: 10
+bingScraper  Oakbourne  vosb services llc  2017-07-25 18:33:26.425514  page: 10
+bingScraper  Oakbourne  vosb services llc  2017-07-25 18:38:39.834757  page: 10
+bingScraper  Oakbourne  vosb services llc  2017-07-25 18:55:38.074048  page: 10
+bingScraper  Monan  fire suppression inspection  2017-07-25 19:07:00.066051  page: 10
+bingScraper  Monan  fire suppression inspection  2017-07-25 19:18:33.159427  page: 10
+bingScraper  Monan  kitchen exhaust cleaning company  2017-07-25 19:45:38.148151  page: 10
+bingScraper  Monan  kitchen exhaust cleaning company  2017-07-25 19:46:56.595004  page: 10
+bingScraper  Oakbourne  geomatic services llc  2017-07-25 21:17:09.498641  page: 10
+bingScraper  Oakbourne  geomatic services llc  2017-07-25 21:19:17.125290  page: 10
+bingScraper  Klaxon  hvac service  2017-07-26 19:14:59.902060  page: 10
+bingScraper  Arden Bay  drag testing service  2017-07-27 15:24:29.818223  page: 10
+bingScraper  Arden Bay  drag testing service  2017-07-27 15:25:57.460920  page: 10
+bingScraper  Arden Bay  drag testing service  2017-07-27 15:26:26.363978  page: 10
+bingScraper  Arden Bay  drag testing service  2017-07-27 15:27:46.728141  page: 10
+bingScraper  Arden Bay  drag testing service  2017-07-27 15:29:06.728078  page: 10
+bingScraper  Arden Bay  drag testing service  2017-07-27 15:31:46.489633  page: 10
+bingScraper  Arden Bay  drag testing service  2017-07-27 16:27:15.768207  page: 10
+bingScraper  Arden Bay  drag testing service  2017-07-27 16:32:04.049489  page: 10
+bingScraper  Arden Bay  drag testing service  2017-07-27 16:37:00.206396  page: 10
+bingScraper  Arden Bay  drag testing service  2017-07-27 16:43:51.484449  page: 10
+bingScraper  Bradford Lane  drag testing service  2017-07-27 16:43:58.249656  page: 10
+bingScraper  Arden Bay  drag testing service  2017-07-27 16:48:37.112549  page: 10
+bingScraper  Arden Bay  drag testing service  2017-07-27 16:48:40.170531  page: 10
+bingScraper  Arden Bay  drag testing service  2017-07-27 20:12:25.596080  page: 10
+bingScraper  Arden Bay  drag testing service  2017-07-27 20:14:02.978609  page: 10
+googleScraper  Crescent Peak  drag testing service  2017-07-27 20:16:06.498068  number of urls: 10
+bingScraper  Oakbourne  trade school plumbing  2017-07-28 20:36:17.362290  page: 5
+bingScraper  Oakbourne  trade school plumbing  2017-07-28 20:39:09.970669  page: 10
+bingScraper  Oakbourne  trade school plumbing  2017-07-28 20:49:03.892592  page: 7
+bingScraper  Oakbourne  trade school plumbing  2017-07-28 20:56:38.111572  page: 5
+bingScraper  Oakbourne  trade school plumbing  2017-07-28 20:58:11.576612  page: 10
+bingScraper  Oakbourne  trade school plumbing  2017-07-28 21:00:52.066407  page: 3
+bingScraper  Oakbourne  plumbing courses certification  2017-07-28 21:33:37.532882  page: 10
+bingScraper  Crescent Peak  "association management companies services"  2017-08-01 14:13:03.544501  page: 10
+bingScraper  Crescent Peak  "refrigerated storage companies warehouse"  2017-08-01 14:14:24.938268  page: 10
+bingScraper  Crescent Peak  Medical waste disposal and treatment services  2017-08-01 14:18:17.209491  page: 10
+bingScraper  Crescent Peak   Material and product testing service companies  2017-08-01 14:18:22.701722  page: 10
+bingScraper  Crescent Peak  association management companies services  2017-08-01 14:18:25.300375  page: 10
+bingScraper  Crescent Peak  refrigerated storage companies warehouse  2017-08-01 14:18:26.538501  page: 10
+bingScraper  Crescent Peak  association management companies services  2017-08-01 14:43:44.583818  page: 10
+bingScraper  Crescent Peak  association management companies services  2017-08-01 15:25:10.893607  page: 10
+bingScraper  Crescent Peak  Material and product testing service companies  2017-08-01 15:50:31.226396  page: 10
+bingScraper  Crescent Peak  Material and product testing service companies  2017-08-01 16:00:43.702627  page: 10
+bingScraper  Crescent Peak  association management companies services  2017-08-01 16:58:07.939904  page: 10
+bingScraper  Crescent Peak  association management companies services  2017-08-01 17:40:15.737116  page: 10
+bingScraper  Crescent Peak  refrigerated storage companies warehouse  2017-08-01 18:18:54.559944  page: 10
+bingScraper  Crescent Peak  refrigerated storage companies warehouse  2017-08-01 18:23:52.020102  page: 10
+bingScraper  Crescent Peak  refrigerated storage companies warehouse  2017-08-01 19:01:39.099862  page: 10
+bingScraper  Oakbourne  infrared thermal inspection services  2017-08-01 19:26:12.754154  page: 4
